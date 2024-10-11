@@ -1,0 +1,19 @@
+delpoy (nginx) pod
+kubectl run nginx --image=nginx
+
+list available pods
+kubectl get pods
+
+verbose list of available pods
+kubectl get pods -o wide
+
+describe (nginx) pod(s)
+kubectl describe pod nginx
+
+ 
+
+
+
+
+
+
