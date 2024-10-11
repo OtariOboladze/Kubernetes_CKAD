@@ -1,0 +1,4 @@
+create pod with yaml:
+kubectl create -f pod-definition.yml
+
+visualize pods:
